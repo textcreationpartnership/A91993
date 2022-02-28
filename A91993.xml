@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Papers from Scotland of transactions of the Scots Commissioners, concerning the King and the Parliament of England. Delivered at the convention of estates at Edinburgh. Also a conference by the Marquis of Arguile, the Earle Louderdaile, and the Lord Lothean, with the English Commissioners. And the proceedings of the Grand Committee of Estates, and the Commissioners of the Kirk of Scotland.</title>
+            <author>Rosse, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91993</idno>
+            <idno type="STC">Wing R1991</idno>
+            <idno type="STC">Thomason E428_15</idno>
+            <idno type="STC">ESTC R204611</idno>
+            <idno type="EEBO-CITATION">99864077</idno>
+            <idno type="PROQUEST">99864077</idno>
+            <idno type="VID">161478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161478)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E428[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Papers from Scotland of transactions of the Scots Commissioners, concerning the King and the Parliament of England. Delivered at the convention of estates at Edinburgh. Also a conference by the Marquis of Arguile, the Earle Louderdaile, and the Lord Lothean, with the English Commissioners. And the proceedings of the Grand Committee of Estates, and the Commissioners of the Kirk of Scotland.</title>
+                  <author>Rosse, William.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648. Feb. 23: Imprimatur, Gilb. Mabbot.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Wil. Rosse.</note>
+                  <note>Annotation on Thomason copy: "1647"; the 8 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Argyll, Archibald Campbell, --  Marquis of, 1598-1661.</term>
+               <term>Lauderdale, John Maitland, --  Duke of, 1616-1682.</term>
+               <term>Lothian, William Kerr, --  Earl of, 1605?-1675.</term>
+               <term>Church of Scotland. --  General Assembly --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161478:1" rendition="simple:additions"/>
+            <p>PAPERS FROM SCOTLAND OF Tranſactions of the Scots Commiſſion<g ref="char:EOLhyphen"/>ers, concerning the KING <hi>And the Parliament of England.</hi>
+            </p>
+            <p>Delivered at the Convention of Eſtates at <hi>Edinburgh.</hi>
+            </p>
+            <p>
+               <hi>ALSO</hi> A Conference by the Marquis of <hi>Arguile,</hi> the Earle <hi>Louderdaile,</hi> and the Lord <hi>Lothean,</hi> with the <hi>Engliſh Commiſſioners.</hi>
+            </p>
+            <p>AND The proceedings of the Grand Committee of <hi>Eſtates, and the Commiſsioners of the Kirk of Scotland.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 1648. <add>1647</add>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Feb. 23:</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Gilb. Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161478:2"/>
+            <pb n="1" facs="tcp:161478:2"/>
+            <head>PAPERS FROM SCOTLAND OF Tranſactions of the Scots Commiſſi<g ref="char:EOLhyphen"/>oners, concerning the KING, and the <hi>Parliament</hi> of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THe Grand Committee of Eſtates for the king<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> Conveened at <hi>Edinburgh</hi> on Tueſday <hi>February</hi> 8. On which day, both the Engliſh Commiſſioners, Mr. <hi>Aſhurſt,</hi> and Collonell <hi>Birch,</hi> came to <hi>Edenburgh,</hi> with Mr. <hi>Marſhall,</hi> and al<g ref="char:EOLhyphen"/>ſo the Scots Commiſſioners that night; But their Grand Convention of Eſtates had onely ſome Spee<g ref="char:EOLhyphen"/>ches made by divers Lords, viz. the Marquis of <hi>Ar<g ref="char:EOLhyphen"/>guile,</hi> the Lord <hi>Lothean,</hi> Mr. <hi>Hamilton</hi> and others, to congratulate their meeting, but it being moved that (in regard the Scots Commiſſioners were not there ready with their Reports) they might adjourne untill
+<pb n="2" facs="tcp:161478:3"/>Thurſday <hi>Februa.</hi> 10. which the Committee of E<g ref="char:EOLhyphen"/>ſtates, accordingly Ordered.</p>
+            <p>On Wedneſday the 9 of <hi>February,</hi> the Committee of the Kirke of <hi>Scotland</hi> ſate, and proceeded in ſome debates, which they had been upon the day before, concerning ſome non-conformiſts in <hi>Scotland,</hi> there being much diſturbance in divers of the Kirkes, by ſome who ſtand for liberty of Conſcience in Church<g ref="char:EOLhyphen"/>worſhip.</p>
+            <p>The Marquis of <hi>Arguile,</hi> the Earl <hi>Lauderdaile,</hi> and the Lord <hi>Lothean,</hi> (not Lord <hi>Loudoun</hi> the Lord Chan<g ref="char:EOLhyphen"/>cellor) gave our Commiſſioners a viſit at their lodg<g ref="char:EOLhyphen"/>ing, which is at an Inne, there being no houſe provi<g ref="char:EOLhyphen"/>ded for them, (and I can aſſure you that there are not Innes here like the <hi>London</hi> ones) a ſorry place, yet ſuch as are in <hi>Edinburgh.</hi> Theſe three Lords were ve<g ref="char:EOLhyphen"/>ry courteous to our Commiſſioners, and the Scots in generall are civill to them.</p>
+            <p>On Thurſday the 10 of <hi>Februa.</hi> The Grand Com<g ref="char:EOLhyphen"/>mittee of Eſtates met againe. And the Earle of <hi>Lou<g ref="char:EOLhyphen"/>doun</hi> Lord Chancellour, and the Earle <hi>Lauderdaile,</hi> (with the reſt of the Scots Commiſſioners, from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> began to make their Reports, concerning tranſ<g ref="char:EOLhyphen"/>actions of overtures by them in <hi>England,</hi> ſince laſt they went from <hi>Edenburgh,</hi> And declared to the Com<g ref="char:EOLhyphen"/>mittee what they had offered to the Parliament of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> and what engagements they had tendred to the King, as alſo what they had done to ſatisfie his Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+            <p>Particularly, what was tranſacted by them with his Majeſty at <hi>Hampton</hi> Court, and ſo other Over<g ref="char:EOLhyphen"/>tures untill the time that his Majeſty was removed from <hi>Hampton</hi> Court.</p>
+            <p>
+               <pb n="3" facs="tcp:161478:3"/>
+Divers of the Lords and the reſt of the Eſtates (in particular) gave them thanks for their fidelity, and for their paines, after the Eſtates were riſen, but the bu<g ref="char:EOLhyphen"/>ſineſſe is not yet debated what ſhall be done in a body by the whole Committee of Eſtates by order: becauſe when they ſit again they are to go on in their reports untill they have finiſhed all, which will hardly bee this week, and then perhaps a week or more in debate afterwards.</p>
+            <p>They then ordered to fit this preſent Thurſday, being the 15 of February, and are to fit by and by: And did Order February 10 laſt paſt that the Engliſh Commiſſioners ſhould make their addreſſes to the Lord Chancellour <hi>Loudoune,</hi> who is preſident to the Committee of Eſtates. And the reaſon of the laſt ad<g ref="char:EOLhyphen"/>journment untill this day was becauſe he is not well. And for ought I ſee, they wil ſo adjourn, that time will ſpin out to a full length before they come to the pe<g ref="char:EOLhyphen"/>riod: So I hope there will be no great feare of raiſing Forces in <hi>Scotland</hi> this yeare, And before Winter we may all learne wit to be friends. Here is a muttering of Sir <hi>Lewis Dives</hi> being in this Kingdome, but I ſee him not, nor heare of him where he is. Some rumor here that the Earle of <hi>Leven</hi> is gone away in a diſcon<g ref="char:EOLhyphen"/>tent ſaying, that he would looſe his life but he would ſet the Crowne on the Kings head, but this is falſe, and therefore if any Malignants from hence ſhall writ any ſuch thing into <hi>England</hi> beleeve it not, for it is ut<g ref="char:EOLhyphen"/>terly falſe.</p>
+            <p>On Friday the 11 of February the Commiſſioners of the Kirke ſat and had reports made concerning the ſubſtance of the Committee of Eſtates the day before ſomething was moved about drawing up a paper to
+<pb n="4" facs="tcp:161478:4"/>preſent to the Committee of Eſtates at their ſitting, but it was at laſt reſolved that nothing ſhould be done in that particular untill the Commiſsioners had made a full report of the <hi>Engliſh</hi> negotiation.</p>
+            <p>On Saturday the 12 of <hi>February,</hi> came news hither of the Disbanding of the ſupernume<g ref="char:EOLhyphen"/>rary Forces in the North of <hi>England,</hi> which gives much content to divers of the Commiſ<g ref="char:EOLhyphen"/>ſioners of Eſtates here, (as themſelves ex<g ref="char:EOLhyphen"/>preſſe). We had here ſome talke of Prince <hi>Charles</hi> his comming hither, as ſome ſaid, was expected from <hi>France,</hi> others ſaid, it was the Duke of <hi>York</hi> to come from <hi>London.</hi> But the <hi>Scots</hi> are ſo farre from agitating, or liking any ſuch deſigne, that they generally ſay, they will have neither <hi>King, Queene,</hi> nor any of the Kings Children to be there to charge them; they cannot ſpare monies neither for Warre, nor Honour, they will labour to maintain what they have, and to keep their own king<g ref="char:EOLhyphen"/>dome quiet, if they can, and let others ſhift for themſelves.</p>
+            <p>On the Lords day <hi>Febru.</hi> 13. the Miniſters here which we heard, did pray zealouſly for peace, and preached very honeſtly, though
+<pb n="5" facs="tcp:161478:4"/>we have heard that ſome others have been a little too bitter elſe where, there were very few that day with our Commiſſioners.</p>
+            <p>Yeſterday being Munday the 14 of <hi>Febru<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> many Lords and other Gentlemen came to Town from other parts, ſo that this City of <hi>Edenburgh,</hi> is very full, things are exceeding deare, and accommodation bad, better in ma<g ref="char:EOLhyphen"/>ny Villages in <hi>England.</hi> But, which is worſe than all the former, the Plague breaks out here very violently, and many dye, every day more then other, ſo that we begin to fear dan<g ref="char:EOLhyphen"/>ger in reſiding here, except ſome place be aſ<g ref="char:EOLhyphen"/>ſigned for the Commiſſioners out of <hi>Eden<g ref="char:EOLhyphen"/>burgh,</hi> and the <hi>Scots</hi> Eſtates adjourn to ſome other place, or there ſitting untill the Parlia<g ref="char:EOLhyphen"/>ment meet to adjourn.</p>
+            <p>This day being the 15 of <hi>Februa.</hi> the Con<g ref="char:EOLhyphen"/>vention of Eſtate, are to meet: And the <hi>Scots</hi> Commiſſioners are to proceed upon their re<g ref="char:EOLhyphen"/>ports, concerning the <hi>Engliſh</hi> Negotiation, from the time that his Majeſty came laſt to <hi>Hampton</hi> Court, what tranſacted there, and ſo on untill their return: As alſo what papers they delivered into the Parl of <hi>England,</hi> and what anſwers they received, as alſo concern<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:161478:5"/>ſome paſſages about the Engliſh Army, which will take up ſo much time, that I be<g ref="char:EOLhyphen"/>leeve the Engliſh Commiſſioners (for ought I heare this day) cannot make their addreſſes to them before March. The Marqueſſe of <hi>Arguile,</hi> and divers of the Committee of E<g ref="char:EOLhyphen"/>ſtates, yea, and many of the <hi>Scots Miniſters</hi> proteſt that they will labour for a right un<g ref="char:EOLhyphen"/>derſtanding between the two Nations, and for ſettlement of a firme and inviolable <hi>Peace,</hi> for the Souldiery, mony, Ile warrant you, will ſtop their mouths, and there is none vi<g ref="char:EOLhyphen"/>ſible to them any where, but hopes of the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Arrears, And the Inhabitants of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> long to hear of all things to be united and ſetled between the <hi>Kingdomes.</hi> For which he prayes, who is,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips humble ſervant <hi>WIL. ROSSE</hi>
+               </signed> 
+               <dateline>Edenburge <date>the 15 of Feb. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
